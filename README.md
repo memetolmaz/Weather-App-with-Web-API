@@ -1,2 +1,7 @@
 # Weather-App-with-Web-API
-App with Python
+
+## USED TECHNOLOGİES
+
+**POSTMAN FOR WEB API** \
+**PYTHON** \
+**OPEN WEATHER API**
